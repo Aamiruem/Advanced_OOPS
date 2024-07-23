@@ -32,4 +32,9 @@ public class Arrays {
             System.out.println(arr[i]);
         }
     }
+
+    public static char[] toString(int[] arr) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'toString'");
+    }
 }
