@@ -20,6 +20,10 @@ class College {
         private String deptName;
         private String hodName;
 
+        private Department(String deptName, String hodName) {
+            throw new UnsupportedOperationException("Not supported yet.");
+        }
+
     }
     public String toString(){
         return collName + "Department Name: " + estYear + " " + this.deptName + "Hod Name: " + this.hodName;
