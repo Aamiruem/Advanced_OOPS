@@ -1,3 +1,12 @@
+// Time Complexity: O(log N), Where n is the number of elements in the input array. In each step our search becomes half. So it can be compared to Binary search, So the time complexity is O(log N)
+
+// Auxiliary Space: O(1), No extra space is required, so the space complexity is constant.
+
+
+
+
+
+
 package ArrayQuestions;
 
 public class IterativePeakValue {
