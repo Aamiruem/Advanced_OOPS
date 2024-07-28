@@ -9,3 +9,7 @@ public class MinMaxArray {
         System.err.println("Max values is = " + arr[arr.length - 1]);
     }
 }
+
+
+//Time complexity = O(n log n)
+//Space complexity = O(1)
